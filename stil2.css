@@ -44,7 +44,7 @@ a:hover {
 }
 
 body {
-  background-image: url("slike/pozadina2.png");
+  background-image: url("pozadina2.PNG");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;  
